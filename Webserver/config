@@ -1,0 +1,16 @@
+{
+ "HTTP":{
+ "enabled": false,
+ "port": 8080
+ },
+ "HTTPS":{
+    "enabled": true,
+    "port": 8081
+ },
+ "default_404": true,
+ "vhosts-enabled": false,
+ "vhost-lookup": "domains",
+ "sessions": true,
+ "php": false,
+ "log": true
+}
