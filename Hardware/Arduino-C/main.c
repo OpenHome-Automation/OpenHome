@@ -1,6 +1,6 @@
 /*TODO: Set up success/failure returns
 Set up state functions
-We-format code
+Re-format code
 */
 #include <EEPROM.h>
 
