@@ -3,3 +3,4 @@
 /Webserver/privkey.pem
 /Webserver/db
 /Webserver/site.POTATO.log
+/Webserver/webserver.py
